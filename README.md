@@ -1,2 +1,2 @@
 # Calculator
-A simple Calculator app Guided by mentor .
+A simple Calculator app
